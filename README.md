@@ -28,6 +28,20 @@ Automated Postman test collection validating `/api/chat` endpoints, A2UI payload
 
 ---
 
+## 🇮🇳 Indian Travel Sample Prompts
+
+BackpackBuddy includes domain-tailored example prompts for Indian travel itineraries, hostels, dietary allergy safety, currency conversions, and media generation:
+
+- **🏰 Hostels in Jaipur**: *"Find budget hostels in Jaipur, India with dorm beds under ₹1,500/night near Hawa Mahal."*
+- **🌶️ Delhi Street Food & Allergy Check**: *"Find famous street food spots in Chandni Chowk, Old Delhi. Filter out dishes containing peanuts or shellfish."*
+- **🌴 Goa & Kerala Budget**: *"Plan a 3-day budget backpacking itinerary for hostels in Goa and Fort Kochi."*
+- **💱 Currency Conversion**: *"Convert $100 USD to INR (Indian Rupee) and calculate how many days of ₹2,500/day budget that covers."*
+- **🎥 Rishikesh Video Preview**: *"Generate a short travel video clip of the evening Ganga Aarti in Rishikesh."*
+
+*(For the complete collection of Indian travel prompts, see [`prompts/indian_travel_prompts.md`](prompts/indian_travel_prompts.md)).*
+
+---
+
 ## Key Features & Wired Services
 
 ### 🧠 Agent Engine Memory Bank & Firestore Persistence
