@@ -21,6 +21,11 @@ Public GCS bucket (`gs://qwiklabs-gcp-02-63b2f55175ee-static-assets-bucket`) sto
 
 ![Google Cloud Storage Bucket Browser](evidences/gcs_bucket_console.png)
 
+### 🧪 4. Postman API Test Suite Results
+Automated Postman test collection validating `/api/chat` endpoints, A2UI payload schema, 200 OK HTTP status codes, and Memory Bank session context.
+
+![Postman API Test Results](evidences/postman_test_results.png)
+
 ---
 
 ## Key Features & Wired Services
