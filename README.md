@@ -4,6 +4,25 @@
 
 ---
 
+## 📸 Deployment Evidences & Infrastructure
+
+### 🚀 1. Cloud Run Deployment (`backpack-buddy-frontend`)
+Deployed as a serverless container on Cloud Run (`us-east1`) wired to Agent Engine runtime.
+
+![Cloud Run Service Dashboard](evidences/cloud_run_dashboard.png)
+
+### 🧠 2. Agent Engine Memory Bank & Firestore
+Active Vertex AI Agent Engine Memory Bank (`us-west1`) for persistent session memories, allergy preferences, and vector embeddings state.
+
+![Vertex AI Memory Bank Console](evidences/memory_bank_console.png)
+
+### 🪣 3. Public Cloud Storage Bucket (`static-assets-bucket`)
+Public GCS bucket (`gs://qwiklabs-gcp-02-63b2f55175ee-static-assets-bucket`) storing generated destination artwork (`.jpg`) and Omni travel video clips (`.mp4`).
+
+![Google Cloud Storage Bucket Browser](evidences/gcs_bucket_console.png)
+
+---
+
 ## Key Features & Wired Services
 
 ### 🧠 Agent Engine Memory Bank & Firestore Persistence
